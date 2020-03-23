@@ -10,6 +10,10 @@
     - [tools](#tools)
   - [Folder description](#folder-description)
   - [Tools list description](#tools-list-description)
+
+## Status
+[![Build Status](https://travis-ci.org/thesofproject/sof-test.svg?branch=master)](https://travis-ci.org/thesofproject/sof-test)
+
 ## Enviroment set up
 ### requirments
 #### apt packages
